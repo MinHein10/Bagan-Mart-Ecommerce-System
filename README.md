@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fttorial.com%2Flaravel-57-ecommerce-shop&psig=AOvVaw0J2rTh3R1UEWbC0lkSSlzb&ust=1606380097955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjksKymne0CFQAAAAAdAAAAABAO" width="400"></p>
+<p align="center"><img src="https://miro.medium.com/max/700/1*Usnf6kTPpFqaB8LljM98zw.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
